@@ -3,7 +3,7 @@
 
 An end-to-end data analytics project that explores Netflix's content library using **Excel, SQL, and Power BI**. The project covers the complete workflow — from raw data collection to a fully interactive Power BI dashboard.
 
-![Dashboard Preview](image.png)
+![Dashboard Preview](Image.png)
 
 ---
 
